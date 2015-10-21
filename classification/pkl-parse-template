@@ -1,0 +1,6 @@
+'copy_reg _reconstructor',
+('sklearn.linear_model.logistic LogisticRegression','__builtin__ object'),
+({'C'=10,'max_iter'=100,'verbose'=0,'intercept_scaling'=1,'dual'=False,'fit_intercept'=True,'classes_'='numpy.core.multiarray _reconstruct',
+('numpy ndarray',(0),'b'),R<where to?>
+(1,(2),numpy dtype,('f8',0 1),R<where to?>,
+(3'<'
